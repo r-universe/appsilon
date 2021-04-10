@@ -7,19 +7,24 @@
 	path = data.validator
 	url = https://github.com/appsilon/data.validator
 	shallow = true
+	registered = true
 [submodule "semantic.dashboard"]
 	path = semantic.dashboard
 	url = https://github.com/appsilon/semantic.dashboard
 	shallow = true
+	registered = true
 [submodule "shiny.i18n"]
 	path = shiny.i18n
 	url = https://github.com/appsilon/shiny.i18n
 	shallow = true
+	registered = true
 [submodule "shiny.info"]
 	path = shiny.info
 	url = https://github.com/appsilon/shiny.info
 	shallow = true
+	registered = true
 [submodule "shiny.semantic"]
 	path = shiny.semantic
 	url = https://github.com/appsilon/shiny.semantic
 	shallow = true
+	registered = true
