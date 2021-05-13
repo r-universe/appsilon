@@ -1,0 +1,22 @@
+[
+  {
+    "package": "data.validator",
+    "oncran": true
+  },
+  {
+    "package": "semantic.dashboard",
+    "oncran": true
+  },
+  {
+    "package": "shiny.i18n",
+    "oncran": true
+  },
+  {
+    "package": "shiny.info",
+    "oncran": true
+  },
+  {
+    "package": "shiny.semantic",
+    "oncran": true
+  }
+]
