@@ -1,11 +1,9 @@
 [
   {
-    "package": "data.validator",
-    "oncran": true
+    "package": "data.validator"
   },
   {
-    "package": "semantic.dashboard",
-    "oncran": true
+    "package": "semantic.dashboard"
   },
   {
     "package": "shiny.i18n",
@@ -16,7 +14,6 @@
     "oncran": true
   },
   {
-    "package": "shiny.semantic",
-    "oncran": true
+    "package": "shiny.semantic"
   }
 ]
