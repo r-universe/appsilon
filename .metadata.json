@@ -1,19 +1,10 @@
 [
   {
-    "package": "data.validator"
-  },
-  {
-    "package": "semantic.dashboard"
-  },
-  {
     "package": "shiny.i18n",
     "oncran": true
   },
   {
     "package": "shiny.info",
     "oncran": true
-  },
-  {
-    "package": "shiny.semantic"
   }
 ]
