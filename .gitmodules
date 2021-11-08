@@ -13,3 +13,8 @@
 	url = https://github.com/appsilon/shiny.info
 	shallow = true
 	registered = true
+[submodule "shiny.semantic"]
+	path = shiny.semantic
+	url = https://github.com/appsilon/shiny.semantic
+	shallow = true
+	registered = true

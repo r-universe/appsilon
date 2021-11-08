@@ -6,5 +6,9 @@
   {
     "package": "shiny.info",
     "oncran": true
+  },
+  {
+    "package": "shiny.semantic",
+    "oncran": true
   }
 ]
