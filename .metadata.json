@@ -1,5 +1,9 @@
 [
   {
+    "package": "semantic.dashboard",
+    "oncran": true
+  },
+  {
     "package": "shiny.i18n",
     "oncran": true
   },
