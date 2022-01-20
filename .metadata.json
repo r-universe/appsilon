@@ -1,5 +1,9 @@
 [
   {
+    "package": "data.validator",
+    "oncran": true
+  },
+  {
     "package": "semantic.dashboard",
     "oncran": true
   },
