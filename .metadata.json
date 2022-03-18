@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "rhino",
+    "oncran": true
+  },
+  {
     "package": "semantic.dashboard",
     "oncran": true
   },

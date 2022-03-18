@@ -8,6 +8,11 @@
 	url = https://github.com/appsilon/data.validator
 	shallow = true
 	registered = true
+[submodule "rhino"]
+	path = rhino
+	url = https://github.com/appsilon/rhino
+	shallow = true
+	registered = true
 [submodule "semantic.dashboard"]
 	path = semantic.dashboard
 	url = https://github.com/appsilon/semantic.dashboard
