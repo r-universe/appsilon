@@ -28,6 +28,11 @@
 	url = https://github.com/appsilon/shiny.info
 	shallow = true
 	registered = true
+[submodule "shiny.react"]
+	path = shiny.react
+	url = https://github.com/appsilon/shiny.react
+	shallow = true
+	registered = true
 [submodule "shiny.semantic"]
 	path = shiny.semantic
 	url = https://github.com/appsilon/shiny.semantic
