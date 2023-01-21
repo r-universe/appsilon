@@ -18,6 +18,11 @@
 	url = https://github.com/appsilon/semantic.dashboard
 	shallow = true
 	registered = true
+[submodule "shiny.benchmark"]
+	path = shiny.benchmark
+	url = https://github.com/appsilon/shiny.benchmark
+	shallow = true
+	registered = true
 [submodule "shiny.i18n"]
 	path = shiny.i18n
 	url = https://github.com/appsilon/shiny.i18n

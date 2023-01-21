@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "shiny.benchmark",
+    "oncran": true
+  },
+  {
     "package": "shiny.i18n",
     "oncran": true
   },
