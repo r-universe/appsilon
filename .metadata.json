@@ -16,6 +16,10 @@
     "oncran": true
   },
   {
+    "package": "shiny.fluent",
+    "oncran": true
+  },
+  {
     "package": "shiny.i18n",
     "oncran": true
   },
