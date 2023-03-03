@@ -32,6 +32,10 @@
     "oncran": true
   },
   {
+    "package": "shiny.router",
+    "oncran": true
+  },
+  {
     "package": "shiny.semantic",
     "oncran": true
   }
