@@ -1,6 +1,6 @@
 [
   {
-    "package": "shiny.react",
+    "package": "data.validator",
     "oncran": true
   },
   {
@@ -8,11 +8,15 @@
     "oncran": true
   },
   {
-    "package": "shiny.fluent",
+    "package": "semantic.dashboard",
     "oncran": true
   },
   {
-    "package": "data.validator",
+    "package": "shiny.benchmark",
+    "oncran": true
+  },
+  {
+    "package": "shiny.fluent",
     "oncran": true
   },
   {
@@ -20,23 +24,19 @@
     "oncran": true
   },
   {
-    "package": "shiny.router",
-    "oncran": true
-  },
-  {
-    "package": "semantic.dashboard",
-    "oncran": true
-  },
-  {
-    "package": "shiny.semantic",
-    "oncran": true
-  },
-  {
     "package": "shiny.info",
     "oncran": true
   },
   {
-    "package": "shiny.benchmark",
+    "package": "shiny.react",
+    "oncran": true
+  },
+  {
+    "package": "shiny.router",
+    "oncran": true
+  },
+  {
+    "package": "shiny.semantic",
     "oncran": true
   }
 ]
