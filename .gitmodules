@@ -53,3 +53,8 @@
 	url = https://github.com/appsilon/shiny.semantic
 	shallow = true
 	registered = true
+[submodule "shiny.telemetry"]
+	path = shiny.telemetry
+	url = https://github.com/appsilon/shiny.telemetry
+	shallow = true
+	registered = true
