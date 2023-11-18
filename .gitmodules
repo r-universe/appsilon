@@ -8,6 +8,9 @@
 [submodule "rhino"]
 	path = rhino
 	url = https://github.com/appsilon/rhino
+[submodule "semantic.assets"]
+	path = semantic.assets
+	url = https://github.com/appsilon/semantic.assets
 [submodule "semantic.dashboard"]
 	path = semantic.dashboard
 	url = https://github.com/appsilon/semantic.dashboard
