@@ -5,6 +5,9 @@
 [submodule "data.validator"]
 	path = data.validator
 	url = https://github.com/appsilon/data.validator
+[submodule "reactable.extras"]
+	path = reactable.extras
+	url = https://github.com/appsilon/reactable.extras
 [submodule "rhino"]
 	path = rhino
 	url = https://github.com/appsilon/rhino
