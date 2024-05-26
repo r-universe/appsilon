@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "box.linters"]
+	path = box.linters
+	url = https://github.com/appsilon/box.linters
 [submodule "data.validator"]
 	path = data.validator
 	url = https://github.com/appsilon/data.validator
