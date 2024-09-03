@@ -5,6 +5,9 @@
 [submodule "box.linters"]
 	path = box.linters
 	url = https://github.com/appsilon/box.linters
+[submodule "box.lsp"]
+	path = box.lsp
+	url = https://github.com/appsilon/box.lsp
 [submodule "data.validator"]
 	path = data.validator
 	url = https://github.com/appsilon/data.validator
