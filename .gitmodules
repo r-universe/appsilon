@@ -35,9 +35,6 @@
 [submodule "shiny.i18n"]
 	path = shiny.i18n
 	url = https://github.com/appsilon/shiny.i18n
-[submodule "shiny.info"]
-	path = shiny.info
-	url = https://github.com/appsilon/shiny.info
 [submodule "shiny.react"]
 	path = shiny.react
 	url = https://github.com/appsilon/shiny.react
