@@ -23,9 +23,6 @@
 [submodule "semantic.dashboard"]
 	path = semantic.dashboard
 	url = https://github.com/appsilon/semantic.dashboard
-[submodule "shiny.benchmark"]
-	path = shiny.benchmark
-	url = https://github.com/appsilon/shiny.benchmark
 [submodule "shiny.emptystate"]
 	path = shiny.emptystate
 	url = https://github.com/appsilon/shiny.emptystate
